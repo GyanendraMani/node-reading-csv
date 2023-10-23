@@ -1,7 +1,7 @@
 # Installation Guide
 
 ### Prerequisites
-  * Node js version 14.20.0
+  * Node
   * git
 
 ### Clone the repository
@@ -22,3 +22,18 @@ Install dependencies for Client.
 cd node-reading-csv/client
 npm install
 ```
+
+### Running on localhost
+
+Run backend Server.
+```
+cd node-reading-csv/server
+npm run dev
+```
+
+Run clien on localhost.
+```
+cd node-reading-csv/client
+npm start
+```
+
