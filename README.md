@@ -3,24 +3,22 @@
 ### Prerequisites
   * Node js version 14.20.0
   * git
-  * yarn
 
 ### Clone the repository
 
 ```
-git clone git@github.com:Chinmayamission/turbo-gcmw-frontend.git
+https://github.com/GyanendraMani/node-reading-csv.git
 ```
 
 ### Intallation
-Please go inside the directory and open a code editor in that directory.
+
+Install dependencies for Server.
 ```
-cd turbo-gcmw-frontend
+cd node-reading-csv/server
+npm install
 ```
-Install the dependencies with Yarn.
+Install dependencies for Client.
 ```
-yarn install
-```
-We are following the Turbo framework file structure, so you have to navigate to 'apps/frontend' for the root directory. Once you are there, you will find all the necessary files and components for the frontend development of the application.
-```
-cd apps/frontend
+cd node-reading-csv/client
+npm install
 ```
