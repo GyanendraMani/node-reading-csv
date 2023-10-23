@@ -31,7 +31,7 @@ cd node-reading-csv/server
 npm run dev
 ```
 
-Run clien on localhost.
+Run client on localhost.
 ```
 cd node-reading-csv/client
 npm start
